@@ -25,10 +25,10 @@ Perfect for **ethical hackers**, **cybersecurity researchers**, **investigators*
 
 ### Requirements:
 
-- Python 3
-- NodeJS
-- Git
-- Pip
+pkg update && pkg upgrade -y
+pkg install python -y
+pkg install git -y
+pkg install nodejs -y
 
 ### Setup:
 
@@ -48,3 +48,12 @@ truecallerjs login
 
 # Run OSINT Hunter
 python3 osint.py
+
+
+
+
+
+
+💀💀 CREATE BY THE SILENT HACKER RAJ 💀💀
+
+
